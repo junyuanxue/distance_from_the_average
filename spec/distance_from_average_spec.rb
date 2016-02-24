@@ -1,3 +1,4 @@
+require "distance_from_average"
 
 describe "distance_from_average" do
   it "didn't return distance from average" do
